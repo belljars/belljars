@@ -4,4 +4,4 @@ suomi ja englanti / finnish and english
 frontend, python, bash  
 linux, bsd
 
-[cd home/alina/portfolio](https://github.com/ofvalleys/portfolio)
+[cd home/alina/portfolio](https://github.com/belljars/portfolio)
