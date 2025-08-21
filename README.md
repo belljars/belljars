@@ -1,9 +1,7 @@
-she/her • 17 (18 joulukuussa)  
-suomi ja englanti  
+she/her
+suomi ja englanti / finnish and english
 
 frontend, python, bash  
-arch linux -kokoonpanoja ja skriptejä  
+linux, bsd
 
-vim kotona
-vscode koulussa
-kitty-terminaali rakastaja
+[cd home/alina/portfolio](https://github.com/ofvalleys/portfolio)
