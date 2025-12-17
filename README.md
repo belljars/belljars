@@ -1,4 +1,4 @@
 frontend, python, bash  
-linux, bsd
+linux, unix
 
 [cd home/alina/portfolio](https://github.com/belljars/portfolio)
